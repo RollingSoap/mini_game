@@ -84,3 +84,4 @@ while True :
                 rand_col = (rand_num - 1) % 10
                 print(f"[보너스] 랜덤 좌표 {rand_num} 에 +1 적용!")
                 check_Range(rand_row, rand_col)
+
